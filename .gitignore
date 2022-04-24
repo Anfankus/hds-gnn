@@ -1,0 +1,13 @@
+.vscode/
+__pycache__/
+datasets/*/
+ckpt/
+nohup.out
+log/
+configs/
+hyperopt_trial/
+hyperopt_trial_reproduce/
+hyperopt_trial_test/
+inpaper/
+.zip
+plot/
